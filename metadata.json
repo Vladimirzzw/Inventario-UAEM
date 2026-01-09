@@ -1,0 +1,5 @@
+{
+  "name": "Inventario UAEM",
+  "description": "Sistema de gestión de inventarios institucional para la UAEM, con hojas de cálculo estilo Excel y filtrado por categorías.",
+  "requestFramePermissions": []
+}
